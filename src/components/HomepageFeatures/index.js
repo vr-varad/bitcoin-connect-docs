@@ -4,32 +4,32 @@ import styles from './styles.module.css';
 
 const FeatureList = [
   {
-    title: 'Easy to Use',
-    Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
+    title: 'Introduction to Bitcoin Connect',
+    Svg: require('@site/static/img/evNxze01.svg').default,
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+        Bitcoin Connect simplifies Lightning wallet integration for websites, offering a seamless experience across browsers and devices. 
+        No extensions required; it won the BOLT FUN Legends of Lightning vol.2 hackathon.
       </>
     ),
   },
   {
-    title: 'Focus on What Matters',
-    Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
+    title: 'Seamless Integration and Payment Options',
+    Svg: require('@site/static/img/h9xMU901.svg').default,
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+        With Bitcoin Connect, web components effortlessly link to Lightning wallets. 
+        Its intuitive invoice payment UI enables easy transactions with just a line of code, supporting various payment options.
       </>
     ),
   },
   {
-    title: 'Powered by React',
-    Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
+    title: 'Contribution Opportunities',
+    Svg: require('@site/static/img/BWWPSQ01.svg').default,
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+        Bitcoin Connect, victorious in the BOLT FUN Legends of Lightning vol.2 hackathon, welcomes contributions. 
+        Developers can access bounties by contacting hello@getalby.com, fostering the growth of this innovative project.
       </>
     ),
   },
