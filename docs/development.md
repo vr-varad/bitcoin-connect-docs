@@ -14,7 +14,7 @@ Run `yarn dev`
 
 ## Other dev options
 
-Open [dev](dev/README.md)
+Open [dev](https://github.com/getAlby/bitcoin-connect/blob/master/dev/README.md)
 
 ## Production Build
 

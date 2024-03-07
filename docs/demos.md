@@ -7,13 +7,13 @@ sidebar_position: 7
 
 ## Pure HTML Demo
 
-See [Pure HTML](./demos/html/README.md)
+See [Pure HTML](https://github.com/getAlby/bitcoin-connect/blob/master/demos/html/README.md)
 
 > [Example codepen](https://codepen.io/rolznz/pen/VwgNajr)
 
 ## React Demo
 
-See [React](./demos/react/README.md)
+See [React](https://github.com/getAlby/bitcoin-connect/blob/master/demos/react/README.md)
 
 ### Example Replits
 
@@ -27,12 +27,12 @@ See [React](./demos/react/README.md)
 
 ### NextJS (App Router)
 
-See [NextJS](./demos/nextjs/README.md)
+See [NextJS](https://github.com/getAlby/bitcoin-connect/blob/master/demos/nextjs/README.md)
 
 ### NextJS Legacy (Pages Directory)
 
-See [NextJS Legacy](./demos/nextjs-legacy/README.md)
+See [NextJS Legacy](https://github.com/getAlby/bitcoin-connect/blob/master/demos/nextjs-legacy/README.md)
 
 ## More demos
 
-Open [demos](demos/README.md)
+Open [demos](https://github.com/getAlby/bitcoin-connect/blob/master/demos/README.md)

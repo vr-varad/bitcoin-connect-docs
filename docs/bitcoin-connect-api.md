@@ -238,7 +238,7 @@ Bitcoin Connect uses `prefers-color-scheme` to automatically detect light/dark m
 
 In case your site uses a manual theme switcher, you can force a theme by following these steps:
 
-> see an example [here](./dev/vite/index.html)
+> see an example [here](https://github.com/getAlby/bitcoin-connect/blob/master/dev/vite/index.html)
 
 1. set `globalThis.bcDarkMode = "class"` **before** any bitcoin connect components are rendered
 2. `"dark"` must be added as a classname to the document to enable dark mode (e.g. `<html class="dark">` or `document.documentElement.classList.add('dark')`) otherwise light mode will be forced.

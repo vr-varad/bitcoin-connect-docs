@@ -109,4 +109,4 @@ useEffect(() => {
 
 ```
 
-See [NextJS](./demos/nextjs/) and [NextJS legacy](./demos/nextjs-legacy/) demos for full examples.
+See [NextJS](https://github.com/getAlby/bitcoin-connect/tree/master/demos/nextjs) and [NextJS legacy](https://github.com/getAlby/bitcoin-connect/tree/master/demos/nextjs-legacy) demos for full examples.
