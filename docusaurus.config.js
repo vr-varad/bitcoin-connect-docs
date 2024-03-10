@@ -20,9 +20,9 @@ const config = {
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'vr-varad', // Usually your GitHub org/user name.
-  projectName: 'bitcoin-connect-docs', // Usually your repo name.
-  deploymentBranch: 'gh-pages',
+  organizationName: 'getAlby', // Usually your GitHub org/user name.
+  projectName: 'bitcoin-connect', // Usually your repo name.
+  deploymentBranch: 'deploy-folder', // The branch your GitHub pages site is deployed from.
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',

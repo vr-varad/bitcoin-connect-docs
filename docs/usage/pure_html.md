@@ -2,15 +2,9 @@
 sidebar_position: 3
 ---
 
-# Other Frameworks
+# Pure HTML
 
-> 💡 The core Bitcoin Connect package works on all frameworks because it is powered by web components. However, a wrapper can simplify usage of Bitcoin Connect.
-
-_Use another popular framework? please let us know or feel free to create a PR for a wrapper. See the React package for an example implementation._
-
-## Pure HTML
-
-### Components
+## Components
 
 Bitcoin Connect exposes the following web components for allowing users to connect their desired Lightning wallet:
 
